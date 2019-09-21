@@ -3,6 +3,7 @@
 void big3() 
 { 
     int A, B, C; 
+    //error
   
     printf("Enter the numbers A, B and C: "); 
     scanf("%d %d %d", &A, &B, &C); 
